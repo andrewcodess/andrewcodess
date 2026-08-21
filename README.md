@@ -9,3 +9,18 @@
    style="display:inline-block;padding:10px 18px;background:#24292f;color:white;text-decoration:none;border-radius:8px;font-weight:600;">
   🐙 GitHub
 </a>
+
+
+<a href="https://open.spotify.com/user/31v3mkpopquwr7epua5rms27zzfq?si=5pTn6HadQiKG0t9ZEArV4g&utm_source=copy-link&sci=spotify%3Acard-config%3A4l6zvjNjJgXrB0sqQOP7Fb"
+   target="_blank"
+   rel="noopener noreferrer"
+   style="display:inline-block;
+          padding:12px 20px;
+          background:#1DB954;
+          color:white;
+          text-decoration:none;
+          border-radius:25px;
+          font-family:Arial,sans-serif;
+          font-weight:bold;">
+  🎵 Spotify
+</a>
