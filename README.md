@@ -6,3 +6,8 @@ Just experimenting, building, and learning.
 💻 AI • Software • Research
 🚀 Turning ideas into projects
 🧪 Experiments live here
+
+<a href="https://github.com/raviicodess" target="_blank" rel="noopener noreferrer"
+   style="display:inline-block;padding:10px 18px;background:#24292f;color:white;text-decoration:none;border-radius:8px;font-weight:600;">
+  🐙 GitHub
+</a>
